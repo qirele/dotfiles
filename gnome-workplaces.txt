@@ -1,0 +1,18 @@
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-1 "['<Super><Shift>z']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-2 "['<Super><Shift>4']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-3 "['<Super><Shift>c']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-4 "['<Super><Shift>s']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-5 "['<Super><Shift>w']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-6 "['<Super><Shift>1']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-7 "['<Super><Shift>2']"
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 "['<Super><Shift>3']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "['<Super>Home', '<Super>z']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-2 "['<Super>x']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "['<Super>c']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "['<Super>s']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['<Super>w']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Super>1']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "['<Super>2']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "['<Super>3']"
+
+disable "Super s" stacking mode to make swtich to workplace-4 work
