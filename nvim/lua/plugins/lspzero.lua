@@ -29,7 +29,7 @@ return {
 			-- ◍ html-lsp html
 			-- ◍ stylua
 			-- ◍ typescript-language-server tsserver
-			ensure_installed = { "clangd", "tsserver", "cssls", "html","emmet_ls", "stylua", "eslint"},
+			ensure_installed = { "clangd", "tsserver", "cssls", "html", "emmet_ls", "eslint" },
 			handlers = {
 				lsp_zero.default_setup,
 			},
